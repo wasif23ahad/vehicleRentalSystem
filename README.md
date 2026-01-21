@@ -130,4 +130,4 @@ src/
 
 **GitHub:** [wasif23ahad](https://github.com/wasif23ahad)
 
-**LinkedIn:** [wasif23ahad](https://www.linkedin.com/in/wasif23ahad/)
+**LinkedIn:** [wasif23ahad](https://www.linkedin.com/in/wasifahad/)
