@@ -3,11 +3,10 @@
 ## 📌 Project Overview
 The **Vehicle Rental System** is a robust backend API designed to manage vehicle rentals efficiently. It handles user authentication, vehicle inventory management, and booking processes with strict role-based access control (RBAC). Built with modern web technologies, it ensures data integrity, secure transactions, and a seamless flow for both Admins and Customers.
 
-**Live Deployment:** [Insert Live Link Here]
-**GitHub Repository:** [Insert GitHub Repo Link Here]
+**Live Deployment:** [Live Link](https://vehiclerentalsystem-iota.vercel.app/)
+**GitHub Repository:** [GitHub Repo](https://github.com/wasif23ahad/vehicleRentalSystem)
 
 ---
-
 ## 🚀 Features
 
 *   **Authentication & Authorization**:
@@ -124,3 +123,11 @@ src/
 ---
 
 **Developed for Assignment 2 Submission.**
+
+## Author
+
+**Mohammad Wasif Ahad**
+
+**GitHub:** [wasif23ahad](https://github.com/wasif23ahad)
+
+**LinkedIn:** [wasif23ahad](https://www.linkedin.com/in/wasif23ahad/)
